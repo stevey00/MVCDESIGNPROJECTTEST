@@ -6,7 +6,7 @@ const blogRoutes = require('./routes/blogRoutes')
 
 const app = express()
 
-const port = 3000
+const port = 3030
 
 //connecting to Mongo database
 const dbURI = "mongodb://0.0.0.0:27017/Blogs"
